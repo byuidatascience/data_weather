@@ -1,5 +1,16 @@
 # data_weather
 
+This repository contains all the weather data that has been gathered and prepared for further analysis. 
+
+
+# Reading on TMY 3 files
+https://rredc.nrel.gov/solar/old_data/nsrdb/1991-2005/tmy3/
+
+
+
+
+
+
 ###%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Vivian's Addition
 ###%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
