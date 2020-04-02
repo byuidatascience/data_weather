@@ -1,9 +1,10 @@
 # Master Script
+# This script uses a loop to join the Weather Stations (Airports) to the corresponding tmy3 weather files.  
 
 # Load libraries
-
-#set working directory to project directory.
 library(tidyverse)
+#set working directory to project directory.
+
 # Dynamic loop to pull all the weather dataframes
 states <- c("ID", "FL", "MA", "CA", "IL", "UT")
 
