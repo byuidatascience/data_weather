@@ -1,3 +1,7 @@
+# This script when run will scrape the tmy3 data from every weather station in the United States. If you need just a few stations 
+# it is recommending to go to the website, https://rredc.nrel.gov/solar/old_data/nsrdb/1991-2005/tmy3/by_state_and_city.html 
+# and download the individual tmy3 files there. 
+
 # Load libraries 
 pacman::p_load(tidyverse, rvest, httr, sf, here, lubridate, stringr, downloader, dummies, 
                cluster, factoextra, gridExtra, sf)
