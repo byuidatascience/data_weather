@@ -1,6 +1,6 @@
-# Tmy3
+# State_tmy3
 
-This folder contains all tmy3 files for 6 states along with a document explaining the variables. 
+This folder contains all tmy3 files for all 50 states along several U.S. territories. These files are in the zip format because some of them are fairly large. 
 
 # Reading on TMY3 files
 
