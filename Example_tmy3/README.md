@@ -1,4 +1,4 @@
-# Tmy3
+# Example_tmy3
 
 This folder contains all tmy3 files for 6 states along with a document explaining the variables. 
 

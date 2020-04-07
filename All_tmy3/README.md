@@ -1,4 +1,4 @@
-# State_tmy3
+# All_tmy3
 
 This folder contains all tmy3 files for all 50 states along several U.S. territories. These files are in the zip format because some of them are fairly large. 
 
